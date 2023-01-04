@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+built-html/*
+
+!built-html/.gitkeep
+
 # testing
 /coverage
 
